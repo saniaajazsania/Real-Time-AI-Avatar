@@ -527,7 +527,7 @@ The current implementation successfully demonstrates:
 **Virtual Camera integration is planned as a future enhancement and is not part of the current completed implementation.**
 
 ---
-# 👩‍💻 Developer
+# 👩‍💻 Team Lead
 
 **Dr. Malik Abdul Salam**
 
